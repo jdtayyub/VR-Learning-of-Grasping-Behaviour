@@ -1,0 +1,15 @@
+function [ ef ] = featureCategoricalToBinaryNumerical( f,r )
+%FEATURECATEGORICALTOBINARYNUMERICAL takes in input features as a set of
+%categorical feautres with category ranges and converts the feature set to
+%a nuerical feature using one-hot encoding , feature space f and list r of
+%categories as labels, return ef encoded features
+
+for i = 1 : size(f,2)
+    col = f(:,i);
+    newspace = zeros(length(col),length(r));
+    
+end
+
+
+end
+

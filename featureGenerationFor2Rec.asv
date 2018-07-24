@@ -1,0 +1,27 @@
+function [ output_args ] = featureGenerationFor2Rec( rec1,rec2 )
+%FEATUREGENERATION Summary of this function goes here
+%   Detailed explanation goes here
+
+%working in x direction only
+
+intervals = flip(combnk([rec1(1) rec1(3) rec2(1) rec2(3)],2));
+allenRel = [];
+induRel = [];
+% go through each pairwise intervals
+for i = 1 : length(intervals)-1
+    for j = i+1 : length(intervals)
+        allenRel = [allenRel; computeTemporalRel   intervals(i,:) intervals(j,:)];
+        %compute the INDU based on relative sizes of the two itervals
+        if diff(intervals(i,1), intervals(i,2)) == diff(intervals(j,1), intervals(j,2))
+            indu = 1;
+        elseif diff(intervals(i,1), intervals(i,2)) < diff(intervals(j,1), intervals(j,2))
+            indu = 2;
+        else
+            indu = 3;
+        end
+        induRel = [induRel; indu];
+    end
+end
+
+end
+

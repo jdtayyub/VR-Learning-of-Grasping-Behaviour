@@ -1,0 +1,705 @@
+timestamp,log_type,message
+19.63685,Log,Start color randomised
+19.63685,Log,Start sprite randomised
+19.63685,Log,Target colors randomised
+19.63685,Log,Target sprites randomised
+19.63685,Log,Start color randomised
+19.63685,Log,Start sprite randomised
+19.63685,Log,Target colors randomised
+19.63685,Log,Target sprites randomised
+19.63685,Log,Setting start & targets for negToPos
+19.63685,Log,Start color randomised
+19.63685,Log,Start sprite randomised
+19.63685,Log,Target colors randomised
+19.63685,Log,Target sprites randomised
+19.63685,Log,Setting start & targets for posToNeg
+19.63685,Log,Start color randomised
+19.63685,Log,Start sprite randomised
+19.63685,Log,Target colors randomised
+19.63685,Log,Target sprites randomised
+19.63685,Log,Setting start & targets for random
+19.63685,Log,Start color randomised
+19.63685,Log,Start sprite randomised
+19.63685,Log,Target colors randomised
+19.63685,Log,Target sprites randomised
+19.63685,Log,Order of blocks:
+19.63685,Log,Random
+19.63685,Log,PosToNeg
+19.63685,Log,NegToPos
+19.63685,Log,Preparing trial number: 1
+24.62582,Log,New State: Preparation
+24.62582,Log,Destroying targets
+24.62582,Log,Creating targets
+30.2,Log,New State: Waiting
+30.79829,Log,New State: Started
+32.0498,Log,New State: MiddleStarted
+32.94,Log,New State: Finished
+32.94,Log,Correct
+33.94312,Log,Preparing trial number: 2
+33.94312,Log,New State: Preparation
+35.26,Log,New State: Waiting
+35.8529,Log,New State: Started
+37.16588,Log,New State: MiddleStarted
+37.88,Log,New State: Finished
+37.88,Log,Correct
+38.88666,Log,Preparing trial number: 3
+43.88143,Log,New State: Preparation
+44.9,Log,New State: Waiting
+45.45132,Log,New State: Started
+46.63143,Log,New State: MiddleStarted
+47.6657,Log,New State: Finished
+47.6657,Log,Failed: TimeoutMiddleMoved object: VisualPointer
+48.66491,Log,Preparing trial number: 4
+53.66215,Log,New State: Preparation
+54.62,Log,New State: Waiting
+55.15897,Log,New State: Started
+56.35009,Log,New State: MiddleStarted
+57.12,Log,New State: Finished
+57.12,Log,Correct
+58.1289,Log,Preparing trial number: 5
+63.12622,Log,New State: Preparation
+63.88,Log,New State: Waiting
+64.40738,Log,New State: Started
+65.77958,Log,New State: MiddleStarted
+66.7,Log,New State: Finished
+66.7,Log,Correct
+67.70238,Log,Preparing trial number: 6
+67.70238,Log,New State: Preparation
+68.78,Log,New State: Waiting
+69.3473,Log,New State: Started
+70.6498,Log,New State: MiddleStarted
+71.4,Log,New State: Finished
+71.4,Log,Correct
+72.40414,Log,Preparing trial number: 7
+72.40414,Log,New State: Preparation
+73.34,Log,New State: Waiting
+73.89279,Log,New State: Started
+75.11007,Log,New State: MiddleStarted
+75.86,Log,New State: Finished
+75.86,Log,Correct
+76.86435,Log,Preparing trial number: 8
+76.86435,Log,New State: Preparation
+77.72,Log,New State: Waiting
+78.08902,Log,New State: Started
+79.36615,Log,New State: MiddleStarted
+80.08,Log,New State: Finished
+80.08,Log,Correct
+81.08704,Log,Preparing trial number: 9
+81.08704,Log,New State: Preparation
+81.93999,Log,New State: Waiting
+82.53866,Log,New State: Started
+83.63304,Log,New State: MiddleStarted
+84.38,Log,New State: Finished
+84.38,Log,Correct
+85.38598,Log,Preparing trial number: 10
+85.38598,Log,New State: Preparation
+86.32,Log,New State: Waiting
+86.81144,Log,New State: Started
+87.60415,Log,New State: Finished
+87.60415,Log,Failed: TimeoutStartMoved object: VisualPointer
+88.60727,Log,Preparing trial number: 11
+93.60441,Log,New State: Preparation
+97.82,Log,New State: Waiting
+98.33691,Log,New State: Started
+99.50494,Log,New State: MiddleStarted
+100.28,Log,New State: Finished
+100.28,Log,Correct
+101.2827,Log,Preparing trial number: 12
+101.2827,Log,New State: Preparation
+102.44,Log,New State: Waiting
+102.8242,Log,New State: Started
+104.0768,Log,New State: MiddleStarted
+104.94,Log,New State: Finished
+104.94,Log,Correct
+105.9443,Log,Preparing trial number: 13
+105.9443,Log,New State: Preparation
+106.5,Log,New State: Waiting
+107.0745,Log,New State: Started
+108.1419,Log,New State: MiddleStarted
+108.84,Log,New State: Finished
+108.84,Log,Correct
+109.8462,Log,Preparing trial number: 14
+109.8462,Log,New State: Preparation
+110.42,Log,New State: Waiting
+110.8832,Log,New State: Started
+111.8918,Log,New State: MiddleStarted
+112.6,Log,New State: Finished
+112.6,Log,Correct
+113.6053,Log,Preparing trial number: 15
+113.6053,Log,New State: Preparation
+114.32,Log,New State: Waiting
+114.6591,Log,New State: Started
+115.22,Log,New State: Finished
+115.22,Log,Failed: HitObstacle object: Obstacle
+116.223,Log,Preparing trial number: 16
+116.223,Log,New State: Preparation
+117.06,Log,New State: Waiting
+117.55,Log,New State: Started
+118.8336,Log,New State: MiddleStarted
+119.48,Log,New State: Finished
+119.48,Log,Correct
+120.4884,Log,Preparing trial number: 17
+120.4884,Log,New State: Preparation
+121.12,Log,New State: Waiting
+121.6088,Log,New State: Started
+122.8753,Log,New State: MiddleStarted
+123.5,Log,New State: Finished
+123.5,Log,Correct
+124.5004,Log,Preparing trial number: 18
+124.5004,Log,New State: Preparation
+125.22,Log,New State: Waiting
+125.6562,Log,New State: Started
+127.0586,Log,New State: MiddleStarted
+127.76,Log,New State: Finished
+127.76,Log,Correct
+128.7634,Log,Preparing trial number: 19
+128.7634,Log,New State: Preparation
+129.56,Log,New State: Waiting
+130.0619,Log,New State: Started
+130.8,Log,New State: Finished
+130.8,Log,Failed: MiddleMovedEarly object: IntermediateCircle
+131.8106,Log,Preparing trial number: 20
+131.8106,Log,New State: Preparation
+133.1,Log,New State: Waiting
+133.6786,Log,New State: Started
+134.8087,Log,New State: MiddleStarted
+135.42,Log,New State: Finished
+135.42,Log,Correct
+136.4269,Log,Preparing trial number: 21
+136.4269,Log,New State: Preparation
+137.06,Log,New State: Waiting
+137.3929,Log,New State: Started
+138.7368,Log,New State: MiddleStarted
+139.42,Log,New State: Finished
+139.42,Log,Correct
+140.4209,Log,Preparing trial number: 22
+140.4209,Log,New State: Preparation
+141.08,Log,New State: Waiting
+141.4319,Log,New State: Started
+142.5909,Log,New State: MiddleStarted
+143.4932,Log,New State: Finished
+143.4932,Log,Failed: MouseLifted object: VisualPointer
+144.4804,Log,Preparing trial number: 23
+144.4804,Log,New State: Preparation
+145.26,Log,New State: Waiting
+145.7684,Log,New State: Started
+146.905,Log,New State: MiddleStarted
+147.54,Log,New State: Finished
+147.54,Log,Incorrect
+148.5428,Log,Preparing trial number: 24
+148.5428,Log,New State: Preparation
+149.16,Log,New State: Waiting
+149.5791,Log,New State: Started
+150.738,Log,New State: MiddleStarted
+151.44,Log,New State: Finished
+151.44,Log,Correct
+152.4476,Log,Preparing trial number: 25
+152.4476,Log,New State: Preparation
+154.16,Log,New State: Waiting
+154.552,Log,New State: Started
+155.9968,Log,New State: MiddleStarted
+156.64,Log,New State: Finished
+156.64,Log,Correct
+157.6452,Log,Preparing trial number: 26
+157.6452,Log,New State: Preparation
+158.3,Log,New State: Waiting
+158.8348,Log,New State: Started
+160.056,Log,New State: MiddleStarted
+160.7,Log,New State: Finished
+160.7,Log,Correct
+161.7057,Log,Preparing trial number: 27
+161.7057,Log,New State: Preparation
+162.22,Log,New State: Waiting
+162.6321,Log,New State: Started
+163.6678,Log,New State: MiddleStarted
+164.32,Log,New State: Finished
+164.32,Log,Correct
+165.3301,Log,Preparing trial number: 28
+165.3301,Log,New State: Preparation
+165.88,Log,New State: Waiting
+166.4243,Log,New State: Started
+167.4999,Log,New State: MiddleStarted
+168.32,Log,New State: Finished
+168.32,Log,Correct
+169.3243,Log,Preparing trial number: 29
+169.3243,Log,New State: Preparation
+169.84,Log,New State: Waiting
+170.2476,Log,New State: Started
+171.3795,Log,New State: MiddleStarted
+172.2379,Log,New State: Finished
+172.2379,Log,Failed: MouseLifted object: VisualPointer
+173.223,Log,Preparing trial number: 30
+173.223,Log,New State: Preparation
+173.78,Log,New State: Waiting
+174.1864,Log,New State: Started
+175.2898,Log,New State: MiddleStarted
+175.92,Log,New State: Finished
+175.92,Log,Correct
+176.9251,Log,Preparing trial number: 31
+176.9251,Log,New State: Preparation
+177.4,Log,New State: Waiting
+177.9217,Log,New State: Started
+179.1673,Log,New State: MiddleStarted
+179.9,Log,New State: Finished
+179.9,Log,Correct
+180.9046,Log,Preparing trial number: 32
+180.9046,Log,New State: Preparation
+181.42,Log,New State: Waiting
+181.8047,Log,New State: Started
+182.9693,Log,New State: MiddleStarted
+183.62,Log,New State: Finished
+183.62,Log,Correct
+184.6223,Log,Preparing trial number: 33
+184.6223,Log,New State: Preparation
+185.16,Log,New State: Waiting
+185.637,Log,New State: Started
+186.8071,Log,New State: MiddleStarted
+187.4,Log,New State: Finished
+187.4,Log,Correct
+188.4061,Log,Preparing trial number: 34
+188.4061,Log,New State: Preparation
+188.94,Log,New State: Waiting
+189.3722,Log,New State: Started
+190.3569,Log,New State: MiddleStarted
+191,Log,New State: Finished
+191,Log,Correct
+192.0055,Log,Preparing trial number: 35
+192.0055,Log,New State: Preparation
+192.54,Log,New State: Waiting
+192.9339,Log,New State: Started
+194.0359,Log,New State: MiddleStarted
+194.7,Log,New State: Finished
+194.7,Log,Correct
+195.7034,Log,Preparing trial number: 36
+195.7034,Log,New State: Preparation
+196.18,Log,New State: Waiting
+196.4994,Log,New State: Started
+197.7728,Log,New State: MiddleStarted
+198.36,Log,New State: Finished
+198.36,Log,Correct
+199.3619,Log,Preparing trial number: 37
+199.3619,Log,New State: Preparation
+199.96,Log,New State: Waiting
+200.2706,Log,New State: Started
+201.3807,Log,New State: MiddleStarted
+201.96,Log,New State: Finished
+201.96,Log,Correct
+202.9622,Log,Preparing trial number: 38
+202.9622,Log,New State: Preparation
+203.58,Log,New State: Waiting
+204.0716,Log,New State: Started
+205.362,Log,New State: MiddleStarted
+206,Log,New State: Finished
+206,Log,Correct
+207.0059,Log,Preparing trial number: 39
+207.0059,Log,New State: Preparation
+207.56,Log,New State: Waiting
+207.8855,Log,New State: Started
+208.52,Log,New State: Finished
+208.52,Log,Failed: HitObstacle object: Obstacle
+209.5224,Log,Preparing trial number: 40
+209.5224,Log,New State: Preparation
+210.1,Log,New State: Waiting
+210.5937,Log,New State: Started
+211.7061,Log,New State: MiddleStarted
+212.3,Log,New State: Finished
+212.3,Log,Correct
+213.307,Log,Preparing trial number: 41
+213.307,Log,New State: Preparation
+213.82,Log,New State: Waiting
+214.1408,Log,New State: Started
+215.2859,Log,New State: MiddleStarted
+215.96,Log,New State: Finished
+215.96,Log,Correct
+216.9626,Log,Preparing trial number: 42
+216.9626,Log,New State: Preparation
+217.46,Log,New State: Waiting
+217.8045,Log,New State: Started
+218.8724,Log,New State: MiddleStarted
+219.68,Log,New State: Finished
+219.68,Log,Correct
+220.6818,Log,Preparing trial number: 43
+220.6818,Log,New State: Preparation
+221.08,Log,New State: Waiting
+221.5367,Log,New State: Started
+222.778,Log,New State: MiddleStarted
+223.38,Log,New State: Finished
+223.38,Log,Correct
+224.3851,Log,Preparing trial number: 44
+224.3851,Log,New State: Preparation
+224.72,Log,New State: Waiting
+225.3058,Log,New State: Started
+226.4755,Log,New State: MiddleStarted
+227.32,Log,New State: Finished
+227.32,Log,Correct
+228.3205,Log,Preparing trial number: 45
+228.3205,Log,New State: Preparation
+228.76,Log,New State: Waiting
+229.1004,Log,New State: Started
+230.4443,Log,New State: MiddleStarted
+231.36,Log,New State: Finished
+231.36,Log,Correct
+232.3621,Log,Preparing trial number: 46
+232.3621,Log,New State: Preparation
+232.78,Log,New State: Waiting
+233.2778,Log,New State: Started
+234.2674,Log,New State: MiddleStarted
+235,Log,New State: Finished
+235,Log,Correct
+236.0095,Log,Preparing trial number: 47
+236.0095,Log,New State: Preparation
+236.42,Log,New State: Waiting
+236.764,Log,New State: Started
+237.7795,Log,New State: MiddleStarted
+238.46,Log,New State: Finished
+238.46,Log,Correct
+239.461,Log,Preparing trial number: 48
+239.461,Log,New State: Preparation
+239.86,Log,New State: Waiting
+240.2633,Log,New State: Started
+241.3922,Log,New State: MiddleStarted
+242.02,Log,New State: Finished
+242.02,Log,Correct
+243.0269,Log,Preparing trial number: 49
+243.0269,Log,New State: Preparation
+243.5,Log,New State: Waiting
+243.8922,Log,New State: Started
+245.0027,Log,New State: MiddleStarted
+245.7,Log,New State: Finished
+245.7,Log,Correct
+246.7086,Log,Preparing trial number: 50
+246.7086,Log,New State: Preparation
+247.12,Log,New State: Waiting
+247.6096,Log,New State: Started
+248.5988,Log,New State: MiddleStarted
+249.26,Log,New State: Finished
+249.26,Log,Correct
+250.2626,Log,Preparing trial number: 51
+250.2626,Log,New State: Preparation
+250.66,Log,New State: Waiting
+251.0542,Log,New State: Started
+252.1589,Log,New State: MiddleStarted
+252.82,Log,New State: Finished
+252.82,Log,Correct
+253.8269,Log,Preparing trial number: 52
+253.8269,Log,New State: Preparation
+254.24,Log,New State: Waiting
+254.8079,Log,New State: Started
+255.9961,Log,New State: MiddleStarted
+256.6,Log,New State: Finished
+256.6,Log,Correct
+257.6038,Log,Preparing trial number: 53
+257.6038,Log,New State: Preparation
+258,Log,New State: Waiting
+258.4419,Log,New State: Started
+259.5636,Log,New State: MiddleStarted
+260.32,Log,New State: Finished
+260.32,Log,Correct
+261.322,Log,Preparing trial number: 54
+261.322,Log,New State: Preparation
+261.78,Log,New State: Waiting
+262.174,Log,New State: Started
+263.5103,Log,New State: MiddleStarted
+264.26,Log,New State: Finished
+264.26,Log,Correct
+265.2631,Log,Preparing trial number: 55
+265.2631,Log,New State: Preparation
+265.66,Log,New State: Waiting
+266.1496,Log,New State: Started
+267.3373,Log,New State: MiddleStarted
+268.02,Log,New State: Finished
+268.02,Log,Correct
+269.022,Log,Preparing trial number: 56
+269.022,Log,New State: Preparation
+269.46,Log,New State: Waiting
+269.7993,Log,New State: Started
+271.0493,Log,New State: MiddleStarted
+271.76,Log,New State: Finished
+271.76,Log,Correct
+272.7631,Log,Preparing trial number: 57
+272.7631,Log,New State: Preparation
+273.26,Log,New State: Waiting
+273.7312,Log,New State: Started
+274.9989,Log,New State: MiddleStarted
+275.9471,Log,New State: Finished
+275.9471,Log,Failed: TimeoutMiddleMoved object: VisualPointer
+276.9474,Log,Preparing trial number: 58
+276.9474,Log,New State: Preparation
+277.38,Log,New State: Waiting
+277.9144,Log,New State: Started
+279.2676,Log,New State: MiddleStarted
+280.12,Log,New State: Finished
+280.12,Log,Correct
+281.1258,Log,Preparing trial number: 59
+281.1258,Log,New State: Preparation
+281.64,Log,New State: Waiting
+281.9799,Log,New State: Started
+283.0897,Log,New State: MiddleStarted
+283.8554,Log,New State: Finished
+283.8554,Log,Failed: MouseLifted object: VisualPointer
+284.8457,Log,Preparing trial number: 60
+284.8457,Log,New State: Preparation
+285.3,Log,New State: Waiting
+285.6351,Log,New State: Started
+286.8823,Log,New State: MiddleStarted
+287.46,Log,New State: Finished
+287.46,Log,Correct
+288.4688,Log,Preparing trial number: 61
+288.4688,Log,New State: Preparation
+288.98,Log,New State: Waiting
+289.4374,Log,New State: Started
+290.6241,Log,New State: MiddleStarted
+291.2,Log,New State: Finished
+291.2,Log,Correct
+292.202,Log,Preparing trial number: 62
+292.202,Log,New State: Preparation
+292.64,Log,New State: Waiting
+293.2135,Log,New State: Started
+294.4184,Log,New State: MiddleStarted
+295.06,Log,New State: Finished
+295.06,Log,Correct
+296.0638,Log,Preparing trial number: 63
+296.0638,Log,New State: Preparation
+296.74,Log,New State: Waiting
+297.2651,Log,New State: Started
+298.5264,Log,New State: MiddleStarted
+299.14,Log,New State: Finished
+299.14,Log,Correct
+300.1432,Log,Preparing trial number: 64
+300.1432,Log,New State: Preparation
+300.8,Log,New State: Waiting
+301.1934,Log,New State: Started
+302.5375,Log,New State: MiddleStarted
+303.18,Log,New State: Finished
+303.18,Log,Correct
+304.1853,Log,Preparing trial number: 65
+304.1853,Log,New State: Preparation
+304.74,Log,New State: Waiting
+305.1079,Log,New State: Started
+306.2857,Log,New State: MiddleStarted
+306.92,Log,New State: Finished
+306.92,Log,Correct
+307.9211,Log,Preparing trial number: 66
+307.9211,Log,New State: Preparation
+308.34,Log,New State: Waiting
+308.826,Log,New State: Started
+309.8841,Log,New State: MiddleStarted
+310.56,Log,New State: Finished
+310.56,Log,Correct
+311.5632,Log,Preparing trial number: 67
+311.5632,Log,New State: Preparation
+312.12,Log,New State: Waiting
+312.4231,Log,New State: Started
+313.6894,Log,New State: MiddleStarted
+314.32,Log,New State: Finished
+314.32,Log,Correct
+315.3255,Log,Preparing trial number: 68
+315.3255,Log,New State: Preparation
+316.02,Log,New State: Waiting
+316.4378,Log,New State: Started
+317.6788,Log,New State: MiddleStarted
+318.26,Log,New State: Finished
+318.26,Log,Correct
+319.2672,Log,Preparing trial number: 69
+319.2672,Log,New State: Preparation
+319.82,Log,New State: Waiting
+320.2915,Log,New State: Started
+321.455,Log,New State: MiddleStarted
+321.96,Log,New State: Finished
+321.96,Log,Correct
+322.9659,Log,Preparing trial number: 70
+322.9659,Log,New State: Preparation
+323.6,Log,New State: Waiting
+324.0266,Log,New State: Started
+325.088,Log,New State: MiddleStarted
+325.78,Log,New State: Finished
+325.78,Log,Correct
+326.7868,Log,Preparing trial number: 71
+326.7868,Log,New State: Preparation
+327.68,Log,New State: Waiting
+328.2884,Log,New State: Started
+329.3321,Log,New State: MiddleStarted
+329.92,Log,New State: Finished
+329.92,Log,Correct
+330.9241,Log,Preparing trial number: 72
+330.9241,Log,New State: Preparation
+331.38,Log,New State: Waiting
+331.7542,Log,New State: Started
+333.0405,Log,New State: MiddleStarted
+333.72,Log,New State: Finished
+333.72,Log,Correct
+334.7244,Log,Preparing trial number: 73
+334.7244,Log,New State: Preparation
+335.1,Log,New State: Waiting
+335.6499,Log,New State: Started
+336.9176,Log,New State: MiddleStarted
+337.68,Log,New State: Finished
+337.68,Log,Correct
+338.6898,Log,Preparing trial number: 74
+338.6898,Log,New State: Preparation
+339.1,Log,New State: Waiting
+339.4662,Log,New State: Started
+340.831,Log,New State: MiddleStarted
+341.6,Log,New State: Finished
+341.6,Log,Correct
+342.6067,Log,Preparing trial number: 75
+342.6067,Log,New State: Preparation
+342.96,Log,New State: Waiting
+343.408,Log,New State: Started
+344.4172,Log,New State: MiddleStarted
+345.12,Log,New State: Finished
+345.12,Log,Correct
+346.1231,Log,Preparing trial number: 76
+346.1231,Log,New State: Preparation
+346.48,Log,New State: Waiting
+346.9279,Log,New State: Started
+348.2401,Log,New State: MiddleStarted
+348.8,Log,New State: Finished
+348.8,Log,Correct
+349.8076,Log,Preparing trial number: 77
+349.8076,Log,New State: Preparation
+350.22,Log,New State: Waiting
+350.5552,Log,New State: Started
+351.8937,Log,New State: MiddleStarted
+352.52,Log,New State: Finished
+352.52,Log,Correct
+353.5291,Log,Preparing trial number: 78
+353.5291,Log,New State: Preparation
+354.06,Log,New State: Waiting
+354.4779,Log,New State: Started
+355.7636,Log,New State: MiddleStarted
+356.44,Log,New State: Finished
+356.44,Log,Correct
+357.4465,Log,Preparing trial number: 79
+357.4465,Log,New State: Preparation
+358.24,Log,New State: Waiting
+358.7991,Log,New State: Started
+360.216,Log,New State: MiddleStarted
+361.02,Log,New State: Finished
+361.02,Log,Correct
+362.0269,Log,Preparing trial number: 80
+362.0269,Log,New State: Preparation
+362.42,Log,New State: Waiting
+362.8911,Log,New State: Started
+363.9837,Log,New State: MiddleStarted
+364.7,Log,New State: Finished
+364.7,Log,Correct
+365.7056,Log,Preparing trial number: 81
+365.7056,Log,New State: Preparation
+366.18,Log,New State: Waiting
+366.7285,Log,New State: Started
+368.1169,Log,New State: MiddleStarted
+368.7,Log,New State: Finished
+368.7,Log,Correct
+369.7043,Log,Preparing trial number: 82
+369.7043,Log,New State: Preparation
+370.12,Log,New State: Waiting
+370.5311,Log,New State: Started
+372.0161,Log,New State: MiddleStarted
+372.76,Log,New State: Finished
+372.76,Log,Correct
+373.7612,Log,Preparing trial number: 83
+373.7612,Log,New State: Preparation
+374.24,Log,New State: Waiting
+374.8376,Log,New State: Started
+376.0562,Log,New State: MiddleStarted
+376.78,Log,New State: Finished
+376.78,Log,Correct
+377.78,Log,Preparing trial number: 84
+377.78,Log,New State: Preparation
+378.42,Log,New State: Waiting
+378.8409,Log,New State: Started
+379.8994,Log,New State: MiddleStarted
+380.68,Log,New State: Finished
+380.68,Log,Correct
+381.6873,Log,Preparing trial number: 85
+381.6873,Log,New State: Preparation
+382.1,Log,New State: Waiting
+382.6186,Log,New State: Started
+383.8867,Log,New State: MiddleStarted
+384.66,Log,New State: Finished
+384.66,Log,Correct
+385.6675,Log,Preparing trial number: 86
+385.6675,Log,New State: Preparation
+386.1,Log,New State: Waiting
+386.5493,Log,New State: Started
+387.6084,Log,New State: MiddleStarted
+388.3,Log,New State: Finished
+388.3,Log,Correct
+389.3038,Log,Preparing trial number: 87
+389.3038,Log,New State: Preparation
+389.72,Log,New State: Waiting
+390.0307,Log,New State: Started
+391.3265,Log,New State: MiddleStarted
+392.02,Log,New State: Finished
+392.02,Log,Correct
+393.0218,Log,Preparing trial number: 88
+393.0218,Log,New State: Preparation
+393.58,Log,New State: Waiting
+393.9094,Log,New State: Started
+395.0015,Log,New State: MiddleStarted
+395.76,Log,New State: Finished
+395.76,Log,Correct
+396.7673,Log,Preparing trial number: 89
+396.7673,Log,New State: Preparation
+397.24,Log,New State: Waiting
+397.5668,Log,New State: Started
+398.8206,Log,New State: MiddleStarted
+399.5,Log,New State: Finished
+399.5,Log,Correct
+400.5023,Log,Preparing trial number: 90
+400.5023,Log,New State: Preparation
+400.9,Log,New State: Waiting
+401.4859,Log,New State: Started
+402.5564,Log,New State: MiddleStarted
+403.16,Log,New State: Finished
+403.16,Log,Correct
+404.1622,Log,Preparing trial number: 91
+404.1622,Log,New State: Preparation
+404.62,Log,New State: Waiting
+405.1995,Log,New State: Started
+406.4263,Log,New State: MiddleStarted
+407.08,Log,New State: Finished
+407.08,Log,Correct
+408.0834,Log,Preparing trial number: 92
+408.0834,Log,New State: Preparation
+408.56,Log,New State: Waiting
+408.9827,Log,New State: Started
+410.3918,Log,New State: MiddleStarted
+411.04,Log,New State: Finished
+411.04,Log,Correct
+412.0419,Log,Preparing trial number: 93
+412.0419,Log,New State: Preparation
+412.66,Log,New State: Waiting
+413.253,Log,New State: Started
+414.3712,Log,New State: MiddleStarted
+415.06,Log,New State: Finished
+415.06,Log,Correct
+416.0615,Log,Preparing trial number: 94
+416.0615,Log,New State: Preparation
+416.46,Log,New State: Waiting
+417.0509,Log,New State: Started
+418.1277,Log,New State: MiddleStarted
+418.72,Log,New State: Finished
+418.72,Log,Correct
+419.7242,Log,Preparing trial number: 95
+419.7242,Log,New State: Preparation
+420.14,Log,New State: Waiting
+420.5645,Log,New State: Started
+421.7097,Log,New State: MiddleStarted
+422.3,Log,New State: Finished
+422.3,Log,Correct
+423.3062,Log,Preparing trial number: 96
+423.3062,Log,New State: Preparation
+423.78,Log,New State: Waiting
+424.1051,Log,New State: Started
+425.1995,Log,New State: MiddleStarted
+425.88,Log,New State: Finished
+425.88,Log,Correct
+426.8867,Log,Preparing trial number: 97
+426.8867,Log,New State: Preparation
+427.4,Log,New State: Waiting
+427.8913,Log,New State: Started
+428.8288,Log,New State: MiddleStarted
+429.48,Log,New State: Finished
+429.48,Log,Correct
