@@ -1,5 +1,7 @@
-function [rel,relC] = computeTemporalRel(is1,ie1,is2,ie2)
- 
+function [rel,relC] = computeTemporalRel(is1,ie1,is2,ie2) % OR Allen relations
+
+% is1: interval start point 1
+
 rel = '';
  
 if is2-1 == ie1
