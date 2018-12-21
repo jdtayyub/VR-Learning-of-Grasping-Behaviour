@@ -1,7 +1,7 @@
 function [ featTab,allData ] = MainFeatureGeneration( input_args )
 %MAIN Summary of this function goes here
 %   return feture data to be run with classifier
-path = 'data2obstacleV'; % set Folder of input data
+path = 'data1obstacleV2'; % set Folder of input data
 files = dir(path);
 features = [];
 classes = {};
